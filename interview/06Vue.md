@@ -14,3 +14,12 @@
 
 
 ### vue-router
+
+
+
+
+
+
+
+
+[参考1](https://juejin.im/post/5f0b12296fb9a07eb7358b42)
