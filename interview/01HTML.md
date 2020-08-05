@@ -1,5 +1,6 @@
 
 ### __HTML所有标签__
+__废弃表示在HTML5已不被支持，New表示在HTML5是新增的表情__
 
 * 基础标签：\<!DOCTYPE>,\<html>,\<title>,\<body>,\<h1>to\<h6>,\<p>,\<br>,\<hr>,\<!---->
 * 格式标签：\<acronym>(废弃),\<abbr>,\<address>,\<b>,\<bdi>(New),\<bdo>,\<big>(废弃),\<blockquote>,\<center>(废弃),\<cite>,\<code>,\<del>,\<dfn>,\<em>,\<font>(废弃),\<i>,\<ins>,\<kbd>,\<mark>(New),\<meter>(New),\<pre>,\<progress>(New),\<q>,\<rt>(New),\<ruby>(New),\<s>,\<samp>,\<small>,\<strike>(废弃),\<strong>,\<sub>,\<sup>,\<time>,\<tt>(废弃),\<u>,\<var>,\<wbr>(New)
